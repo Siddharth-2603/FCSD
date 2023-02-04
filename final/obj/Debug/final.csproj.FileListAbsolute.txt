@@ -1,0 +1,17 @@
+C:\Users\elang\source\repos\final\final\bin\Debug\final.exe.config
+C:\Users\elang\source\repos\final\final\bin\Debug\final.exe
+C:\Users\elang\source\repos\final\final\bin\Debug\final.pdb
+C:\Users\elang\source\repos\final\final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\elang\source\repos\final\final\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\elang\source\repos\final\final\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\elang\source\repos\final\final\obj\Debug\final.csproj.AssemblyReference.cache
+C:\Users\elang\source\repos\final\final\obj\Debug\final.csproj.SuggestedBindingRedirects.cache
+C:\Users\elang\source\repos\final\final\obj\Debug\final.Form1.resources
+C:\Users\elang\source\repos\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\elang\source\repos\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\elang\source\repos\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\elang\source\repos\final\final\obj\Debug\final.csproj.CopyComplete
+C:\Users\elang\source\repos\final\final\obj\Debug\final.exe
+C:\Users\elang\source\repos\final\final\obj\Debug\final.pdb
+C:\Users\elang\source\repos\final\final\obj\Debug\final.Form2.resources
+C:\Users\elang\source\repos\final\final\obj\Debug\final.Form3.resources
